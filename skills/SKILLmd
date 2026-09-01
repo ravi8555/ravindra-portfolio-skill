@@ -95,7 +95,96 @@ Example description:
 
 > A learning project focused on understanding and implementing modern authentication flows using OAuth 2.0, OpenID Connect, tokens, sessions, and protected routes.
 
+---
 
+# 2. BuildForms
+
+### Purpose
+
+A learning project for understanding how dynamic form-builder systems can be designed and implemented.
+
+### Areas of learning
+
+- Dynamic form schemas
+- Form rendering
+- Reusable fields
+- Validation
+- Conditional fields
+- Form submissions
+- API design
+- Database modeling
+- Type-safe form configuration
+
+### Portfolio positioning
+
+Focus on the engineering challenge of designing a flexible system rather than simply describing it as a form application.
+
+Example description:
+
+> A learning project exploring how to design a schema-driven form builder with reusable fields, validation, conditional logic, and dynamic form rendering.
+
+---
+
+# 3. KnowStack
+
+### Purpose
+
+An AI and knowledge-system learning project focused on understanding how information can be collected, indexed, retrieved, and used by AI systems.
+
+### Areas of learning
+
+- Document ingestion
+- Web content ingestion
+- YouTube content
+- Chunking
+- Embeddings
+- Vector search
+- Semantic search
+- RAG
+- Source citations
+- AI agents
+- Retrieval pipelines
+- Context construction
+
+### Portfolio positioning
+
+Present KnowStack as an exploration of AI knowledge systems and retrieval architecture.
+
+Example description:
+
+> A learning project exploring how AI-powered knowledge systems can ingest information from multiple sources, retrieve relevant context, and generate source-aware answers using RAG and AI agents.
+
+---
+
+# 4. Poll Platform
+
+### Purpose
+
+A learning project for understanding how polling and voting systems can be designed with reliable data handling and real-time results.
+
+### Areas of learning
+
+- Poll creation
+- Questions and options
+- Voting
+- Duplicate vote prevention
+- Validation
+- Poll lifecycle
+- Results
+- Analytics
+- API design
+- Database consistency
+- Real-time updates
+
+### Portfolio positioning
+
+Focus on learning about state, consistency, concurrency, and data modeling.
+
+Example description:
+
+> A learning project exploring how to build a polling platform with voting, validation, result aggregation, participation tracking, and scalable backend architecture.
+
+---
 
 # Project Page Structure
 
