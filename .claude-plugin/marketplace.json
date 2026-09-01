@@ -1,0 +1,110 @@
+{
+  "name": "portfolio-skills",
+  "description": "A collection of practical Claude Code skills for learning and building modern web applications, authentication systems, form builders, AI knowledge systems, polling platforms, and developer portfolios.",
+  "owner": {
+    "name": "YOUR_NAME",
+    "url": "https://github.com/YOUR_USERNAME"
+  },
+  "plugins": [
+    {
+      "name": "auth",
+      "source": "./auth",
+      "description": "Explore and implement modern authentication and authorization using OAuth 2.0, OpenID Connect, JWT, sessions, callbacks, identity providers, and protected routes.",
+      "author": {
+        "name": "YOUR_NAME"
+      },
+      "homepage": "https://github.com/YOUR_USERNAME/portfolio-skills/tree/main/auth",
+      "license": "MIT",
+      "category": "security",
+      "tags": [
+        "authentication",
+        "authorization",
+        "oauth",
+        "oidc",
+        "jwt",
+        "security",
+        "sessions"
+      ]
+    },
+    {
+      "name": "buildforms",
+      "source": "./buildforms",
+      "description": "Build and explore schema-driven dynamic form systems with reusable fields, validation, conditional logic, submissions, APIs, and database integration.",
+      "author": {
+        "name": "YOUR_NAME"
+      },
+      "homepage": "https://github.com/YOUR_USERNAME/portfolio-skills/tree/main/buildforms",
+      "license": "MIT",
+      "category": "development",
+      "tags": [
+        "forms",
+        "form-builder",
+        "react",
+        "validation",
+        "schema",
+        "typescript",
+        "frontend"
+      ]
+    },
+    {
+      "name": "knowstack",
+      "source": "./knowstack",
+      "description": "Build AI-powered knowledge systems using document ingestion, embeddings, vector search, RAG, source citations, retrieval pipelines, and AI agents.",
+      "author": {
+        "name": "YOUR_NAME"
+      },
+      "homepage": "https://github.com/YOUR_USERNAME/portfolio-skills/tree/main/knowstack",
+      "license": "MIT",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "rag",
+        "llm",
+        "embeddings",
+        "vector-search",
+        "agents",
+        "knowledge-base",
+        "retrieval"
+      ]
+    },
+    {
+      "name": "poll-platform",
+      "source": "./poll-platform",
+      "description": "Design and build polling and voting systems with poll lifecycle management, voting validation, duplicate prevention, result aggregation, analytics, and real-time updates.",
+      "author": {
+        "name": "YOUR_NAME"
+      },
+      "homepage": "https://github.com/YOUR_USERNAME/portfolio-skills/tree/main/poll-platform",
+      "license": "MIT",
+      "category": "development",
+      "tags": [
+        "polling",
+        "voting",
+        "surveys",
+        "real-time",
+        "analytics",
+        "api",
+        "database"
+      ]
+    },
+    {
+      "name": "portfolio-skill",
+      "source": "./portfolio-skill",
+      "description": "Create and maintain a developer portfolio that presents projects, technical learning, architecture, challenges, and engineering decisions through clear and engaging project stories.",
+      "author": {
+        "name": "YOUR_NAME"
+      },
+      "homepage": "https://github.com/YOUR_USERNAME/portfolio-skills/tree/main/portfolio-skill",
+      "license": "MIT",
+      "category": "productivity",
+      "tags": [
+        "portfolio",
+        "developer",
+        "projects",
+        "documentation",
+        "case-study",
+        "learning"
+      ]
+    }
+  ]
+}
